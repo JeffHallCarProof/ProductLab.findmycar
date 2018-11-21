@@ -10,7 +10,7 @@
     ["/static/media/CoupeBox@1xH.e067990f.svg","e067990f7b0193ef4b927968cd698218"],
     ["/static/media/DieselBox@1x.77a90fb0.svg","77a90fb0d78e94002a8bf2cde73a2990"],
     ["/static/media/DieselBox@1xH.d90b0c82.svg","d90b0c829eddc59bf377fa49b5ff7bec"],
-    ["/carfinder/static/media/Guy-Hero.2c69b2e9.png","2c69b2e966570ea1789af52690471cb6"],
+    ["carfinder/static/media/Guy-Hero.2c69b2e9.png","2c69b2e966570ea1789af52690471cb6"],
     ["/static/media/HatchbackBox@1x.99da131f.svg","99da131f53be50dfde19e16387ef1b4c"],
     ["/static/media/HatchbackBox@1xH.f389afbf.svg","f389afbf70e017912e1b846c129444d5"],
     ["/static/media/MinivanBox@1x.8c792348.svg","8c7923480607a2853925ac83ba837cb7"],
