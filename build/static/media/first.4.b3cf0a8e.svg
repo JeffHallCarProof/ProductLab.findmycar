@@ -9,6 +9,6 @@
             <circle id="circle_svg" cx="66" cy="606" r="45"></circle>
         </g>
     </g>
-    <text x="50%" y="40%" text-anchor="middle" dy="0.3em" font-size='14' font-family="Roboto-Regular.54a91b06.ttf" fill="#000000">Build</text>
-    <text x="50%" y="60%" text-anchor="middle" dy="0.3em" font-size='14' font-family="Roboto-Regular.54a91b06.ttf" fill="#000000">Quality</text>
+    <text x="50%" y="40%" text-anchor="middle" dy="0.3em" font-size='14' font-family="carfinder/static/media/Roboto-Regular.54a91b06.ttf" fill="#000000">Build</text>
+    <text x="50%" y="60%" text-anchor="middle" dy="0.3em" font-size='14' font-family="carfinder/static/media/Roboto-Regular.54a91b06.ttf" fill="#000000">Quality</text>
 </svg>
