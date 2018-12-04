@@ -10,6 +10,6 @@
         </g>
     </g>
 
-        <text x="50%" y="40%" text-anchor="middle" dy="0.3em" font-size='14' font-family="Roboto-Regular.54a91b06.ttf" fill="#000000">Fuel</text>
-        <text x="50%" y="60%" text-anchor="middle" dy="0.3em" font-size='14' font-family="Roboto-Regular.54a91b06.ttf" fill="#000000">Economy</text>
+        <text x="50%" y="40%" text-anchor="middle" dy="0.3em" font-size='14'  font-family="carfinder/static/media/Roboto-Regular.54a91b06.ttf" fill="#000000">Fuel</text>
+        <text x="50%" y="60%" text-anchor="middle" dy="0.3em" font-size='14'  font-family="carfinder/static/media/Roboto-Regular.54a91b06.ttf" fill="#000000">Economy</text>
 </svg>
