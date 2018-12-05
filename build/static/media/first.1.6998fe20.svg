@@ -3,7 +3,11 @@
     <!-- Generator: sketchtool 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
     <title>5150080F-D0A1-4272-9D2A-89FF24127153@1x</title>
     <desc>Created with sketchtool.</desc>
-    <defs></defs>
+    <defs>  
+        <style type="text/css">
+            @import url:('https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic');
+        </style>
+    </defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Preferences" transform="translate(-21.000000, -561.000000)" fill="#CFCFD1">
             <circle id="circle_svg" cx="66" cy="606" r="45"></circle>
